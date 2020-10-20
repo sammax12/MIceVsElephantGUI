@@ -1,4 +1,4 @@
 # MiceVSElephantGUI
  A Multithread Java Project in JavaFx
 
- Author: Maxwell Vitebskiy
+ Author: Maxwell Vitebskiy, Jonathan Gomez
